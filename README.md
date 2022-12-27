@@ -1,4 +1,6 @@
-# nemonlabdrv01 2022-12-05
+# nemonlabdrv
+
+nemonlabdrv01 2022-12-05
 general purpose label and barcode generator for Dymo and Brother label makers and printers. Of late it seems that the program calls for both companies have become more difficult to use than necessary and in may cases have poor examples to work with. This addresses many but probably not all uses of these label printers when called by a custom program.
 
 This project was created using visual studio 2022. The executable nemonlabdrv.exe will output instructions at command line level with an argument of ?
